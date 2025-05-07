@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ParallelWorldEngine\ParallelWorldEngine.csproj" />
+      <ProjectReference Include="..\..\ParallelWorldEngine\ParallelWorldEngine.csproj" />
     </ItemGroup>
 
 </Project>

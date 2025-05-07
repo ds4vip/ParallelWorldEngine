@@ -63,7 +63,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ParallelWorldEngine\ParallelWorldEngine.csproj" />
+      <ProjectReference Include="..\..\ParallelWorldEngine\ParallelWorldEngine.csproj" />
       <ProjectReference Include="..\SpaceInvaders\SpaceInvaders.csproj" />
     </ItemGroup>
 
